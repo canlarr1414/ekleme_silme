@@ -1,0 +1,10 @@
+C:\Users\Öğrenci\Desktop\visual studio projeleri\ekleme_silme_güncelleme_01\ekleme_silme_güncelleme_01\bin\Debug\ekleme_silme_güncelleme_01.exe.config
+C:\Users\Öğrenci\Desktop\visual studio projeleri\ekleme_silme_güncelleme_01\ekleme_silme_güncelleme_01\bin\Debug\ekleme_silme_güncelleme_01.exe
+C:\Users\Öğrenci\Desktop\visual studio projeleri\ekleme_silme_güncelleme_01\ekleme_silme_güncelleme_01\bin\Debug\ekleme_silme_güncelleme_01.pdb
+C:\Users\Öğrenci\Desktop\visual studio projeleri\ekleme_silme_güncelleme_01\ekleme_silme_güncelleme_01\obj\Debug\ekleme_silme_güncelleme_01.csprojResolveAssemblyReference.cache
+C:\Users\Öğrenci\Desktop\visual studio projeleri\ekleme_silme_güncelleme_01\ekleme_silme_güncelleme_01\obj\Debug\ekleme_silme_güncelleme_01.Form1.resources
+C:\Users\Öğrenci\Desktop\visual studio projeleri\ekleme_silme_güncelleme_01\ekleme_silme_güncelleme_01\obj\Debug\ekleme_silme_güncelleme_01.Properties.Resources.resources
+C:\Users\Öğrenci\Desktop\visual studio projeleri\ekleme_silme_güncelleme_01\ekleme_silme_güncelleme_01\obj\Debug\ekleme_silme_güncelleme_01.csproj.GenerateResource.Cache
+C:\Users\Öğrenci\Desktop\visual studio projeleri\ekleme_silme_güncelleme_01\ekleme_silme_güncelleme_01\obj\Debug\ekleme_silme_güncelleme_01.exe
+C:\Users\Öğrenci\Desktop\visual studio projeleri\ekleme_silme_güncelleme_01\ekleme_silme_güncelleme_01\obj\Debug\ekleme_silme_güncelleme_01.pdb
+C:\Users\Öğrenci\Desktop\visual studio projeleri\ekleme_silme_güncelleme_01\ekleme_silme_güncelleme_01\obj\Debug\ekleme_silme_güncelleme_01.Form2.resources
